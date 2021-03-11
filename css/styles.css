@@ -4,7 +4,7 @@
 }
 
 h1 {
-  font-family: "Ubuntu";
+  font-family: "Roboto";
   font-size: 3rem;
   line-height: 1.5;
   font-weight: bold;
@@ -66,7 +66,7 @@ p{
 #features{
   padding: 7% 15%;
   position: relative;
-  
+
   background-color: #fff;
 }
 
@@ -117,6 +117,27 @@ p{
 
 .pricing-column{
   padding: 3% 2%;
+}
+
+#cta{
+  background-color: #ff4c68;
+  text-align:center;
+  padding: 3rem 6rem 3rem;
+
+}
+
+.cta-text{
+  color: #fff;
+}
+
+#footer{
+  text-align: center;
+  padding: 1% 15%;
+
+}
+
+.sm-icons{
+  margin: 20px 15px;
 }
 
 @media (max-width: 1000px) {
